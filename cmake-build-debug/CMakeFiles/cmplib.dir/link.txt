@@ -1,0 +1,2 @@
+C:\Tools\MSYS2\mingw64\bin\ar.exe qc libcmplib.a CMakeFiles/cmplib.dir/cmplib.cpp.obj
+C:\Tools\MSYS2\mingw64\bin\ranlib.exe libcmplib.a
